@@ -61,18 +61,17 @@ a:visited, a:link, a:active {
         position:relative;
         z-index:2;}
 .topnav .top-word{max-width:auto;
-             height:44px;
-             margin:0 -10px;
-             text-align:justify; }
+                  height:44px;
+                  text-align:justify;}
 .topnav ul li{display: inline-block;
-          position:relative;
-          height:44px;
-          z-index:1;
-          vertical-align:top;}
+              position:relative;
+              height:44px;
+              z-index:1;
+              vertical-align:top;}
 .topnav ul li a{line-height:44px;
-            padding:0 10px;
-            display:block;
-            height:100%;}
+                padding:0 10px;
+                display:block;
+                height:100%;}
 .topnav ul:after{content:"";
                  clear:both;
                  display:inline-block;
